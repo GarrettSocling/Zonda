@@ -80,7 +80,7 @@ class AcercaDe(QtWidgets.QDialog):
 
         boton_donar = QtWidgets.QPushButton('Donar')
         boton_donar.clicked.connect(
-            lambda: webbrowser.open(__about__.__url__ + '/DONATE.md')
+            lambda: webbrowser.open(__about__.__url__ + '/blob/master/DONATE.md')
         )
 
         layout_info = QtWidgets.QGridLayout()
