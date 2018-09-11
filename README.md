@@ -2,7 +2,7 @@
 [![Licencia](https://img.shields.io/badge/LICENCIA-GPL--3.0-red.svg?longCache=true&style=flat-square)](https://fsfe.org/campaigns/gplv3/gplv3.es.html)
 [![Version](https://img.shields.io/badge/VERSIÓN-0.1.0-yellow.svg?longCache=true&style=flat-square)]()
 [![Colaboradores](https://img.shields.io/badge/COLABORADORES-1-green.svg?longCache=true&style=flat-square)](https://github.com/efdiloreto/Zonda/graphs/contributors)
-[![Donar](https://img.shields.io/badge/DONAR-!-blue.svg?longCache=true&style=flat-square)](#Donar)
+[![Donar](https://img.shields.io/badge/DONAR-!-blue.svg?longCache=true&style=flat-square)](#donar)
 
 ![Alt text](zonda/gui/recursos/imagenes/zonda.png?raw=true "Title")
 
