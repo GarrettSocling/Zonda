@@ -47,6 +47,13 @@ La versión actual soporta las siguentes características:
     * TXT
     * PDF
 
+## Screenshots
+![Acerca](https://i.imgur.com/MzXutnt.png)
+![Estructura](https://i.imgur.com/5N2M5Ur.png)
+![Viento](https://i.imgur.com/pPxSpKA.png)
+![Topografía](https://i.imgur.com/5BZkymL.png)
+
+
 ## Colaborar
 Podes colaborar de diferentes maneras, para mas información lee [acá](CONTRIBUTING.md).
 
