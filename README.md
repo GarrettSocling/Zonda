@@ -59,7 +59,7 @@ Podes colaborar de diferentes maneras, para mas información lee [acá](CONTRIBU
 
 
 ## Donar
-Si el software te es de utilidad, podes apoyar colaborando en el proyecto o mediante donaciones que ayudarán a mantener vivo el mismo. Mas información [acá](DONATE.md).
+Si el software te es de utilidad podes contribuir mediante donaciones que ayudarán a mantener vivo el proyecto. Mas información [acá](DONATE.md).
 
 
 ## Contacto
