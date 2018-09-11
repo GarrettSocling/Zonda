@@ -13,6 +13,6 @@ Tu colaboración hará que podamos enfocarnos mas tiempo en el proyecto. Si quer
 > CBU: 0140421403610151784011
 
 ## Otros métodos:
-* **Paypal**: paypal.me/efdiloreto
+* **Paypal**: https://www.paypal.me/efdiloreto
 * **Bitcoin**: 1MU7wsTBeeWZoewcZoAfs7KsZ6yrn2rEAz
 
