@@ -23,7 +23,7 @@ La versión actual soporta las siguentes características:
 
 * Edificios
     * Reducción de coeficiente de presión interna.
-    * Presiones sobre SPRFV para Paredes - Aleros - Cubiertas (Dos Aguas, Un Agua, Plana, Mansarda). Método analítico.
+    * Presiones sobre SPRFV para Paredes - Aleros - Cubiertas (Dos Aguas, Un Agua, Plana). Método analítico.
     * Presiones sobre C&R para para Paredes - Cubiertas considerando la presencia de alero y parapeto (Dos Aguas, Un Agua, Plana).
     * Personalización de alturas para calcular las presiones sobre paredes a barlovento.
 
