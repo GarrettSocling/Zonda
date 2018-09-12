@@ -22,8 +22,8 @@ from gui.ventanas import VentanaPrincipal
 
 def main():
     app = QtWidgets.QApplication(sys.argv)
-    window = VentanaPrincipal()
-    window.show()
+    ventana = VentanaPrincipal()
+    ventana.show()
     sys.exit(app.exec_())
 
 
