@@ -13,11 +13,12 @@ Zonda es un software para cálcular las cargas de viento sobre las estructuras d
  * [Instalar](#instalar)
  * [Colaborar](#colaborar)
  * [Ideas a futuro](#ideas-a-futuro)
+ * [Problemas conocidos](#problemas-conocidos)
+ * [Contacto](#contacto)
  * [Donar](#donar)
 
 ## Características
 La versión actual soporta las siguentes características:
-
 
 ### Cálculo de cargas de viento
 * Cálculos de parámetros:
@@ -45,7 +46,6 @@ La versión actual soporta las siguentes características:
 * Cubierta Aisladas
     * Presiones sobre SPRFV (Globales y Locales)
 
-
 ### Resultados
 * Visualización de resultados en interfaz de usuario con edición de tabla enzabezado.
 * Exportación de resultados en los siguientes formatos:
@@ -66,12 +66,14 @@ Para desintalarlo podes usar el mismo instalador o simplemente eliminar la carpe
 ## Colaborar
 Podes colaborar de diferentes maneras, para mas información lee [acá](CONTRIBUTING.md).
 
-
 ## Ideas a futuro
 Podes ver lo que se tiene planeado para futuras releases [acá](TODO.md)
 
 ## Donar
 Si el software te es de utilidad podes contribuir mediante donaciones que ayudarán a mantener vivo el proyecto. Mas información [acá](DONATE.md).
+
+## Problemas conocidos
+Informate de los problemas conocidos [acá](PROBLEMS.md).
 
 ## Contacto
 Podes escribirme a <efdiloreto@gmail.com> o contactarme por [LinkedIn](https://www.linkedin.com/in/ediloreto/).
