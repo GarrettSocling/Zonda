@@ -7,6 +7,14 @@
 Zonda es un software para cálcular las cargas de viento sobre las estructuras de acuerdo al Reglamento Argentino CIRSOC 102-2005.
 
 
+## Contenido
+ * [Características](#características)
+ * [Screenshots](#screenshots)
+ * [Instalar](#instalar)
+ * [Colaborar](#colaborar)
+ * [Ideas a futuro](#ideas-a-futuro)
+ * [Donar](#donar)
+
 ## Características
 La versión actual soporta las siguentes características:
 
@@ -51,18 +59,22 @@ La versión actual soporta las siguentes características:
 ![Viento](https://i.imgur.com/pPxSpKA.png)
 ![Topografía](https://i.imgur.com/5BZkymL.png)
 
+## Instalar
+Descargá el instalador de [acá](https://github.com/efdiloreto/Zonda/releases/download/0.1.0/Zonda-0.1.0-win32.msi). Ejecutalo y elegí la carpeta donde quieras que se instale. Una vez instalado, anda a la carpeta elegida y ejecutá _Zonda.exe_.
+Para desintalarlo podes usar el mismo instalador o simplemente eliminar la carpeta elegida.
 
 ## Colaborar
 Podes colaborar de diferentes maneras, para mas información lee [acá](CONTRIBUTING.md).
 
 
+## Ideas a futuro
+Podes ver lo que se tiene planeado para futuras releases [acá](TODO.md)
+
 ## Donar
 Si el software te es de utilidad podes contribuir mediante donaciones que ayudarán a mantener vivo el proyecto. Mas información [acá](DONATE.md).
 
-
 ## Contacto
 Podes escribirme a <efdiloreto@gmail.com> o contactarme por [LinkedIn](https://www.linkedin.com/in/ediloreto/).
-
 
 ## Copyright
 [GPL](LICENSE) © 2018 [Eduardo Di Loreto](https://github.com/efdiloreto)
